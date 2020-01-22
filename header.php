@@ -89,7 +89,12 @@
     <ul class="navbar-nav my-2 ">           
             <li class="nav-item">
         <a class="nav-link" href="#">My Account</a>
+
       </li>
+       
+       <li class="nav-item">
+       	        <a class="nav-link" href="#">Basket <i class="glyphicon glyphicon-cloud"></i></a>
+       </li>
         </ul>
   
   </div>
